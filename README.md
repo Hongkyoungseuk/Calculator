@@ -3,4 +3,5 @@
 - 4칙 연산자 버튼
 - 초기화 버튼
 - 계산 버튼
+- (버튼만 있지 기능은 하지 못함.)
 ![Calculator](https://github.com/Hongkyoungseuk/Calculator/assets/117065210/256d39df-8188-42b9-b26f-53067f30fd0e)
